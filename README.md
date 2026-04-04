@@ -163,7 +163,6 @@ python src/model.py            # Train & evaluate model
 
 ## 👤 Author
 
-👤 Author
 
 Atchaya Parthipan – 3rd Year B.Tech CSE (AI & ML) – atchayaatchaya702@email.com  
 Laxmi Priya TM – 3rd Year B.Tech CSE (AI & ML)  – lax@email.com
