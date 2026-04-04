@@ -1,0 +1,23 @@
+# ─────────────────────────────────────────────
+# ClimateTrend Analyzer - Requirements
+# Install with: pip install -r requirements.txt
+# Python version: 3.8+
+# ─────────────────────────────────────────────
+
+# Core data science
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Machine learning
+scikit-learn==1.3.2
+
+# Jupyter notebooks
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# Utilities
+python-dotenv==1.0.0
