@@ -170,8 +170,4 @@ Laxmi Priya TM – 3rd Year B.Tech CSE (AI & ML)  – lax@email.com
 
 ---
 
-## 📄 License
 
-This project is for academic purposes only.
-Data sources: NASA, NOAA, World Bank (open access).
-=======
