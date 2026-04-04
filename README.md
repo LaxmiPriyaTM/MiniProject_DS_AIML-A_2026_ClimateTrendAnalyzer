@@ -91,7 +91,7 @@ Year, Temperature_Anomaly, CO2_ppm, Rainfall_mm
 
 ### 1. Clone the repository
 ```bash
-git clone .git
+git clone https://github.com/Atchaya101/MiniProject_DS_AIML-A_2026_ClimateTrendAnalyzer.git
 cd ClimateTrend-Analyzer
 ```
 
