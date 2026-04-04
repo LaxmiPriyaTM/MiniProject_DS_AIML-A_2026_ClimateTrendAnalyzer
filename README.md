@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌍 ClimateTrend Analyzer
 ### Detecting Long-Term Climate Change Patterns
 
@@ -173,3 +174,6 @@ python src/model.py            # Train & evaluate model
 
 This project is for academic purposes only.
 Data sources: NASA, NOAA, World Bank (open access).
+=======
+Project completed successfully
+>>>>>>> 8636777fb43431ae3135b8460e7795dd25fa60b0
