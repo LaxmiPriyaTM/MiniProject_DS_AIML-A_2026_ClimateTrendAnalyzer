@@ -91,7 +91,7 @@ Year, Temperature_Anomaly, CO2_ppm, Rainfall_mm
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ClimateTrend-Analyzer.git
+git clone .git
 cd ClimateTrend-Analyzer
 ```
 
