@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🌍 ClimateTrend Analyzer
 ### Detecting Long-Term Climate Change Patterns
 
@@ -177,3 +178,6 @@ Data sources: NASA, NOAA, World Bank (open access).
 =======
 Project completed successfully
 >>>>>>> 8636777fb43431ae3135b8460e7795dd25fa60b0
+=======
+
+>>>>>>> 88f5bbaf6c3b5e7a429fb1318d8384969b1d780d
