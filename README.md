@@ -165,7 +165,7 @@ python src/model.py            # Train & evaluate model
 
 
 Atchaya Parthipan – 3rd Year B.Tech CSE (AI & ML) – atchayaatchaya702@email.com  
-Laxmi Priya TM – 3rd Year B.Tech CSE (AI & ML)  – laxmipriya6105@email.com
+Laxmi Priya T M – 3rd Year B.Tech CSE (AI & ML)  – laxmipriya6105@email.com
 
 ---
 
