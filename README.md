@@ -1,5 +1,5 @@
 
-# 🌍 ClimateTrend Analyzer
+# 🌍 ClimateTrend Analyzer: Detecting Long-Term Climate Change Patterns
 ### Detecting Long-Term Climate Change Patterns
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
